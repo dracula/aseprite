@@ -1,0 +1,23 @@
+{
+  "name": "dracula-theme",
+  "displayName": "Dracula Theme",
+  "description": "Theme for Aseprite using the Dracula palette",
+  "version": "1.0",
+  "author": { "name": "abbabon", "email": "abbabon@gmail.com", "url": "https://github.com/abbabon/" },
+  "contributors": [
+    {}
+  ],
+  "publisher": "abbabon",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Dracula", "path": "./theme" }
+    ],
+    "palettes": [
+      { "id": "Dracula",   "path": "./dracula.gpl" }
+    ]
+  }
+}
