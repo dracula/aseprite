@@ -20,9 +20,14 @@ All instructions can be found at [draculatheme.com/aseprite](https://draculathem
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+| [![abbabon/avatar_url]][abbabon] |
+|:--------------------------------------:|
+|              [abbabon]              |
+
+[abbabon]: https://github.com/abbabon
+[abbabon/avatar_url]: https://avatars1.githubusercontent.com/u/1280330?s=70
+
+
 
 ## Help
 Not all of the sheet was edited while making this theme, as I focused more on colour scheme. Found anything which doesn't fit into the theme? Good suggestion for a font? Open an [Issue on GitHub](https://github.com/abbabon/aseprite-dracula-theme/issues/new "New Issue &#183; abbabon/aseprite-dracula-theme") or message me on [Twitter](https://twitter.com/abbabon).
