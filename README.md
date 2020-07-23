@@ -14,11 +14,9 @@ Also, as a bonus, you get the Dracula colour palette!
 
 All instructions can be found at [draculatheme.com/aseprite](https://draculatheme.com/aseprite).
 
-### Step-by-step guide:
-
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/aseprite/graphs/contributors).
 
 | [![abbabon/avatar_url]][abbabon] |
 |:--------------------------------------:|
