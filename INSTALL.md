@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/abbabon/aseprite-dracula-theme.git
+    $ git clone https://github.com/dracula/aseprite.git
 
 Notice that in order to actually install and activate the theme, you would have to zip the directory.
 
-You can also download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+You can also download using the [GitHub .zip download](https://github.com/dracula/aseprite/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
