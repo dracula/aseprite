@@ -2,7 +2,7 @@
 
 > A dark theme for [Aseprite](https://www.aseprite.org/).
 
-![Screenshot](./screenshot1.png)
+![Screenshot](./screenshot.png)
 
 ![Screenshot](./screenshot2.png)
 
